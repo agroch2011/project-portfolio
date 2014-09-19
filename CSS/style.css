@@ -1,0 +1,25 @@
+/*
+Andrea Groch
+
+Orange-#DC6A22
+Tan-#EEB795
+Brown-#341908
+*/
+a {
+    color: #DC6A22;}
+    h1{ color: #DC6A22;}
+
+.color1{
+    width: 200px;
+    height: 200px;
+    background-color: #DC6A22;}
+.color2{
+    width: 200px;
+    height: 200px;
+    background-color: #EEB795;}
+.color3{
+    width: 200px;
+    height: 200px;
+    background-color: #341908;}
+    
+
