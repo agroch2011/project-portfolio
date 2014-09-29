@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="css/resume.css">
+      <meta charset="utf-8">
+      <title>Andrea's Resume</title> <!-- DON'T FORGET THE TITLE -->
+        
+    </head>
+    
+    <body>
+        <body style="background-color:#E6E6FA">
+        <div id="header">
+			<h1><p id="name">Andrea Groch</p></h1>
+			<a href="ag564058@sju.edu"><p id="email">ag564058@sju.edu</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			
+			
+           <h4 style="color:green">Experience</h4> 
+			<p>Billing and Social Media Manager at Orthoco</p>
+			<ul>
+				<li>Manage patient files by collecting insurance and attorney information and billing the respective carrier</li>
+				<li>Update the firm’s Facebook page and write current press releases</li>
+                </ul>
+                <p>Marketing and Communications Intern at Adoptions from the Heart</p>
+                <ul>
+                <li>Communicated with over 200 companies to raise donations for upcoming projects</li>
+                <li>Produced Facebook posts that reached over 2,000 people</li>
+<li>Reorganized connector lists and created press releases, which led to the first and 
+only adoption event article in the Edison/Metuchen Sentinel</li>
+<li>Assisted in planning events for 1,500 guests</li>
+			</ul>
+            <p>Marketing Intern at the International Fine Arts Exhibition</p>
+            <ul>
+                <li>Created hundreds of target markets to contact for promoting upcoming art shows</li>
+<li>Managed the Program ACT to update contacts and relationship interaction</li>
+                </div>
+		<div class="left"></div>
+		<div class="right">
+                
+			<h4 style="color:purple">Skills</h4> 
+			<p>Microsoft Office programs, Volusion, Outlook, Prezi, Constant Contact tool, Scalar, Photoshop, InDesign, Program ACT, and iMovie</p>
+			
+			
+            <h4 style="color:red">Education</h4> 
+			<p>BS, Communications and Marketing, Saint Joseph's University, December 2014</p>
+                <p>Dean’s List 2012, 2013, 2014</p>
+			<ul>
+				<li>First Place Public Relations Plan Presentation 2013</li>
+				<li>Utilized strategic and innovative skills to create a PR Plan that was presented
+ to Executive Judges for the client, The Wine School of Philadelphia</li>
+			</ul>
+		</div>
+		<div id="footer">
+			<p>6351 Overbrook Ave Unit 307A Philadelphia, PA 19151 | Tel: (239) 821-2944</p>
+		</div>
+	</body>
+</html>              
+                   
+                   
