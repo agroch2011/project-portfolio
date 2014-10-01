@@ -5,21 +5,35 @@ Orange-#DC6A22
 Tan-#EEB795
 Brown-#341908
 */
+
+header{
+    background-color: yellow;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+
+header h1{
+    text-align: center
+        
+}
+
+    
 a {
     color: #DC6A22;}
     h1{ color: #DC6A22;}
 
-.color1{
-    width: 200px;
-    height: 200px;
+
+.color1{ width: 200px;
+    height: 200px;   
     background-color: #DC6A22;}
-.color2{
-    width: 200px;
-    height: 200px;
+.color2{  width: 200px;
+    height: 200px;   
     background-color: #EEB795;}
 .color3{
-    width: 200px;
-    height: 200px;
+     width: 200px;
+    height: 200px;   
     background-color: #341908;}
     
 
