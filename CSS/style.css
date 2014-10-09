@@ -1,3 +1,4 @@
+
 /*
 Andrea Groch
 
@@ -6,17 +7,19 @@ Tan-#EEB795
 Brown-#341908
 */
 
+@import url(http://fonts.googleapis.com/css?family=Lobster);
 header{
-    background-color: yellow;
+    background-color: brown;
     width: 80%;
     margin-left: auto;
     margin-right: auto;
     padding: 50px;
 }
+h1{font-family: 'Lobster', cursive;}
 
 header h1{
     text-align: center
-        
+            
 }
  
     
@@ -25,7 +28,7 @@ a {
     h1{ color: #DC6A22;}
 
 .colorwrapper{
-        background-color: blue}
+        background-color: white}
 
 
 
@@ -43,8 +46,21 @@ a {
 .color3{  
     background-color: #341908;}
 }
+
+
     
-   
+    
+    
+    
+   .cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
 
 .clearfix:before,
 .clearfix:after {
@@ -52,5 +68,16 @@ a {
    display: table; /* 2 */
 }
 .clearfix:after {
-    clear: both;
+        clear: both;}
+
+.site-footer a{
+    color: brown;
+    font-size: 2em
+        text-decoration: none;
 }
+    
+.site-footer a:hover{
+color:green;
+    text-decoration: inherit;
+}
+    
