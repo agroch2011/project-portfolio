@@ -7,7 +7,6 @@ Tan-#EEB795
 Brown-#341908
 */
 
-@import url(http://fonts.googleapis.com/css?family=Lobster);
 header{
     background-color: brown;
     width: 80%;
@@ -45,7 +44,7 @@ a {
     background-color: #EEB795;}
 .color3{  
     background-color: #341908;}
-}
+
 
 
     
@@ -69,14 +68,7 @@ a {
 .clearfix:after {
         clear: both;}
 
-.site-footer a{
-    color: brown;
-    font-size: 8em
-        text-decoration: none;
-}
-    
-.site-footer a:hover{
-color:green;
-    text-decoration: inherit;
-}
+
+
+
     
