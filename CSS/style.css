@@ -6,18 +6,51 @@ Orange-#DC6A22
 Tan-#EEB795
 Brown-#341908
 */
+.main{ width: 60%;
+float: left;
+ border-style: solid;
+    border-width: 3px;
+    margin: 20px;
+    background-color: pink;
+    border-color: green;
+
+}
+
+.sidebar{ width: 30%;
+    float: left;
+  border-style: solid;
+    border-width: 3px;
+margin: 2px;
+background-color: pink;
+border-color: green;}
+
+.site-footer{ width: 90%;
+float: left;
+border-style: solid;
+border-width: 3px;
+text-align: center;
+margin: 10px;
+background-color: pink;
+border-color: green;}
+
+
+
+
 
 header{
-    background-color: brown;
-    width: 80%;
+    background-image: url('../Images/colorful_background-1920x1200.jpg');
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
-    padding: 50px;
+    padding: 30px;
+  
 }
-h1{font-family: 'Lobster', cursive;}
+h1{font-family: 'Lobster', cursive; 
+}
 
 header h1{
-    text-align: center
+    text-align: center;
+    color: white;
             
 }
  
@@ -27,12 +60,12 @@ a {
     h1{ color: #DC6A22;}
 
 .colorwrapper{
-        background-color: white}
+        background-color: white;}
 
 
 
-.colorsquare{ width: 200px;
-    height: 200px; 
+.colorsquare{ width: 150px;
+    height: 150px; 
     float: left;
 }
 
@@ -46,8 +79,14 @@ a {
     background-color: #341908;}
 
 
+body{
+    background-image: 
+    url('../CSS/upfeathers/upfeathers.png.png');
+    background-repeat: repeat;
+background-position: center;
+    background-attachment: fixed;
+}
 
-    
     
     
    .cf:before,
