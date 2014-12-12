@@ -1,14 +1,29 @@
 
 body {
-  padding-top: 50px;
+  padding-top: 60px;
   padding-bottom: 20px;
-    font-family: fantasy;
+    background-color: blue;
+}
+h1 {text-align: center;}
+h2 {text-align: center; }
+
+.container {background-image: url('../img/restaurant/restaurant.png');
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+}
     
-   
-}
-html {
-     background-color: #CCFFCC;
-}
+
+
+p{ text-align: center;}
+
+
+
+
+
+
+
+
 
 /*!
  * Bootstrap v3.3.0 (http://getbootstrap.com)

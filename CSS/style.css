@@ -8,32 +8,40 @@ Brown-#341908
 */
 
 
-.main{ 
-float: left;
+.main{   
+    text-align: center; 
+
  border-style: solid;
+    width: 456px;
     border-width: 3px;
-    margin: 20px;
+    margin: 35px;
     background-color: pink;
     border-color: green;
 
 }
 
-.sidebar{ width: 30%;
-    float: left;
+
+.sidebar{ display:inline;
+    position: relative;
+float: right;
+    width: 250px;
+    height: 375px;
   border-style: solid;
     border-width: 3px;
-margin: 2px;
 background-color: pink;
-border-color: green;}
+border-color: green; 
+margin: -250px  325px 7px 20px; }
 
-.site-footer{ width: 90%;
-float: left;
-border-style: solid;
-border-width: 3px;
-text-align: center;
-margin: 10px;
-background-color: pink;
-border-color: green;}
+
+    
+    
+    
+    
+    
+    
+    
+
+
 
 
 
@@ -90,6 +98,14 @@ background-position: center;
     background-attachment: fixed;
 }
 
+#footer { width: 95%;
+float: left; 
+border-style: solid;
+border-width: 3px;
+text-align: center;
+margin: 10px;
+background-color: pink;
+border-color: green;}
     
     
    .cf:before,

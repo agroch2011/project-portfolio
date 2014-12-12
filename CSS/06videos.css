@@ -5,18 +5,18 @@ header{
     font-weight: 600;
     font-size: 300%;
     color: purple;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald';
     
 }
 
 
 body{   
     background-image: url('old_map/old_map.png.png');
-     background-repeat: repeat-y;
+     
   background-position: 130px 130px;
     background-size: 1100px;    
    text-align: center;      
-    background-color:lightblue;
+   
 color:purple;}
 
 

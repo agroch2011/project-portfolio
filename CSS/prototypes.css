@@ -12,8 +12,8 @@ color: purple}
 .container {
     width: 900px;
     height: 600px;
-    text-align: center;
-    padding: 30px;
+    padding: 20px;
+    text-align: left;
     
 }
 
@@ -22,19 +22,6 @@ color: purple}
 div{text-align:center;}
 
 
-/* resize images */
-.container img {
-    width: 90%;
-    height: auto;
-    text-align: center;
-   
- 
-  overflow: hidden;
-float: left; 
-border: 5px solid black;
-    margin: 0 15px 15px  0;
-    padding: 20px;
-}
 
 
 
